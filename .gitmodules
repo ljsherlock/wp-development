@@ -1,0 +1,12 @@
+[submodule "site"]
+	path = site
+	url = https://github.com/roots/bedrock
+	branch = master
+[submodule "trellis"]
+	path = trellis
+	url = https://github.com/roots/trellis
+	branch = master
+[submodule "trellis-database-uploads-migration"]
+	path = trellis-database-uploads-migration
+	url = https://github.com/valentinocossar/trellis-database-uploads-migration
+	branch = master
