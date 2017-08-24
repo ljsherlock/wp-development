@@ -10,7 +10,9 @@
 
 1. CLone this repo recursively
 2. [Install](https://roots.io/trellis/docs/installing-trellis/) LEMP stack and setup WordPress
-3. Clone [theem boilerplate](https://github.com/ljsherlock/wp-boilerplate)
+3. copy .yml files from `trellis-database-uploads-migration` into `trellis`
+4. copy .sh file from `trellis-database-uploads-migration` into `trellis/bin`
+4. Clone [theem boilerplate](https://github.com/ljsherlock/wp-boilerplate)
 
 ## Deployment
 
